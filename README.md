@@ -1,6 +1,8 @@
 # rest_assured_API_tests
 Java, Maven, Testng
 
+code folder: main/src/test/java
+
 # Resources:
 Rest-assured documnetation:
 https://github.com/rest-assured/rest-assured
