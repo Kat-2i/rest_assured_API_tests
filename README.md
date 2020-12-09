@@ -5,6 +5,9 @@ Java, Maven, Testng
 Rest-assured documnetation:
 https://github.com/rest-assured/rest-assured
 
+Mock server used for testing:
+https://reqres.in/
+
 Json-server set up:
 https://www.npmjs.com/package/json-server
 
